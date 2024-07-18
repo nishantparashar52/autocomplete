@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+.suggestions {
+  overflow-y: scroll;
+  height: 200px;
+}
+.list {
+  padding: 8px;
+  border-bottom: 1px solid #ccc;
+  max-width: 200px;
+  margin: 0 auto;
+}
